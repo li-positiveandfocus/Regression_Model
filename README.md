@@ -1,7 +1,7 @@
 # Regression_Model
-Built regression model to identify the factors of determining house price with R programming\
+Built regression model to identify the factors of determining house price with R programming
 
-This project develops a regression model with Square feet living space, Square feet lot size, Floors, the number of bathrooms and bedrooms, and Waterfront & views that is capable of identifying the most relevant factors of determining house prices.\
+This project develops a regression model with Square feet living space, Square feet lot size, Floors, the number of bathrooms and bedrooms, and Waterfront & views that is capable of identifying the most relevant factors of determining house prices.
 
 This project also intends to understand the causal relationship of these factors to answer our business question and hypothesis. In particular, the model shows how living space size impacts house prices.
 
